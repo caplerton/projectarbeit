@@ -1,6 +1,6 @@
 #include <SPI.h>
 // OPV mittlere Spannung 
-float mid_voltage = 1.94;
+float mid_voltage = 2.5;
 // Werte für poti
 float max_resistance = 9850;
 float wiper_resistance = 75;

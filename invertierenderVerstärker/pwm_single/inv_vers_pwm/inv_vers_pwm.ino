@@ -1,5 +1,5 @@
 // OPV mittlere Spannung 
-float mid_voltage = 1.94;
+float mid_voltage = 2.5;
 // Step variable und Base step berechnen
 int steps = 0;
 const int base_step = int((mid_voltage / 5)  * 256);
